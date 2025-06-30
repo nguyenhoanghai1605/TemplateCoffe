@@ -8,3 +8,12 @@ HTML, CSS, JS, RESPONSIVE
 
 ## Author
 Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
+
+
+### ✅ What I did:
+- Added a README.md file describing the project purpose and tech stack.
+
+### 📌 Motivation:
+- Improve project documentation for better visibility and understanding.
+
+Thanks!
